@@ -70,6 +70,9 @@ hr {
 	padding: 15px;
 	transition: all 0.8s;
 }
+#menu #red-text {
+	color: red;
+}
 #menu.navbar-default {
 	background-color: #fff;
 	border-color: rgba(231, 231, 231, 0);
@@ -462,11 +465,12 @@ header .intro-text {
 }
 #team .team-img {
 	min-width: 240px;
-	max-width: 300px;
+	max-width: 240px;
 }
 #team .thumbnail {
 	background: transparent;
 	border: 0;
+	width: min-content;
 }
 #team .thumbnail .caption {
 	padding: 10px 0 0 0;

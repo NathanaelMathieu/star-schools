@@ -5,7 +5,6 @@ import Principles from './principles';
 import About from './about';
 import Goals from './goals';
 import Materials from './materials';
-import Testimonials from './testimonials';
 import Team from './Team';
 import Contact from './contact';
 import $ from 'jquery';
