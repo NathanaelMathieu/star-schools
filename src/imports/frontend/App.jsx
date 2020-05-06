@@ -3,7 +3,7 @@ import Navigation from './navigation';
 import Header from './header';
 import Principles from './principles';
 import About from './about';
-import Services from './services';
+import Goals from './goals';
 import Materials from './materials';
 import Testimonials from './testimonials';
 import Team from './Team';
@@ -40,9 +40,8 @@ export class App extends Component {
         <Header data={this.state.resumeData.Header}/>
         <Principles data={this.state.resumeData.Principles}/>
         <About  data={this.state.resumeData.About}/>
-        <Services  data={this.state.resumeData.Services}/>
+        <Goals  data={this.state.resumeData.Goals}/>
         <Materials />
-        <Testimonials  data={this.state.resumeData.Testimonials}/>
         <Team  data={this.state.resumeData.Team}/>
         <Contact  data={this.state.resumeData.Contact}/>
       </div>

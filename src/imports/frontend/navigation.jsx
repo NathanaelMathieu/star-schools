@@ -15,9 +15,8 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
               <li><a href="#principles" className="page-scroll">Principles</a></li>
               <li><a href="#about" className="page-scroll">About</a></li>
-              <li><a href="#services" className="page-scroll">Services</a></li>
+              <li><a href="#goals" className="page-scroll">Goals</a></li>
               <li><a href="#portfolio" className="page-scroll">Materials</a></li>
-              <li><a href="#testimonials" className="page-scroll">Testimonials</a></li>
               <li><a href="#team" className="page-scroll">Team</a></li>
               <li><a href="#contact" className="page-scroll">Contact</a></li>
             </ul>

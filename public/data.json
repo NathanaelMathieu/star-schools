@@ -13,35 +13,35 @@
             "STAR also accepts individual donations, grants, and donations raised by community fundraisers."
         ]
     },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    "Goals": [{
+            "icon": "fas fa-user-graduate",
+            "name": "Students First",
+            "text": "Charter schools should be closed when they fail to meet performance standards or do not uphold the interest of students and the public."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fas fa-school",
+            "name": "Accountable Authorizers",
+            "text": "Charter school authorizers should be held accountable for the school’s performance; Authorizers who have bad practices or are running failing schools should face consequences."
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fas fa-door-open",
+            "name": "Transparency",
+            "text": "All charter schools should require authorizers to report on the performance of its schools."
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fas fa-search-dollar",
+            "name": "Financial Accountability",
+            "text": "Charter schools should be transparent in their financial actions, especially when run by for-profits, and held accountable by the government when public funds are used irresponsibly."
         },
         {
             "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "High Standards",
+            "text": "All charter schools should not be exempt from the state’s or school district’s established rules or laws."
         },
         {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fas fa-equals",
+            "name": "Equal Access",
+            "text": "Charter schools should be required to ensure equitable access to all children."
         }
 
 
@@ -78,23 +78,19 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
             "img": "img/team/03.jpg",
             "name": "Jane Doe",
             "job": "Senior Designer"
         },
         {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "img": "img/team/01.jpg",
+            "name": "Charlie Hills",
+            "job": "Research/Digital Intern"
+        },
+        {
+            "img": "img/team/nm.png",
+            "name": "Nathanael Mathieu",
+            "job": "Content Developer"
         }
     ],
     "Contact": {
