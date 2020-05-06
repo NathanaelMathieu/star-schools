@@ -6,18 +6,11 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "STAR Schools is an organization for education reform created by the educators themselves. Our board of directors, all of whom who have had previous professional education experience, are at the forefront of education reform. We hire professionals and work with volunteers to help deliver the STAR message.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "STAR demonstrates the same financial accountability, transparency, and sound business that it expects from authorizers.",
+            "STAR receives funding from various foundations who share our commitment to improving education for all children and producing quality charter schools.",
+            "STAR also accepts individual donations, grants, and donations raised by community fundraisers."
         ]
     },
     "Services": [{

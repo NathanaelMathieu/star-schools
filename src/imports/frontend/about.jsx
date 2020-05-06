@@ -11,17 +11,11 @@ export class about extends Component {
               <div className="about-text">
                 <h2>About Us</h2>
                 <p>{this.props.data ? this.props.data.paragraph : 'loading...'}</p>
-                <h3>Why Choose Us?</h3>
+                <h3>Why Support Us?</h3>
                 <div className="list-style">
-                  <div className="col-lg-6 col-sm-6 col-xs-12">
+                  <div className="col-lg-12 col-sm-6 col-xs-12">
                     <ul>
                       {this.props.data ? this.props.data.Why.map(d => <li>{d}</li>) : 'loading'}
-                    </ul>
-                  </div>
-                  <div className="col-lg-6 col-sm-6 col-xs-12">
-                    <ul>
-                    {this.props.data ? this.props.data.Why2.map(d => <li>{d}</li>) : 'loading'}
-
                     </ul>
                   </div>
                 </div>
