@@ -195,15 +195,16 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-o-background-size: cover;
 }
 .intro .overlay {
+	width: 100%;
 	background: rgba(0,0,0,0.2);
 }
 .intro h1 {
 	/* font-family: 'Raleway', sans-serif; */
 	color: #fff;
-	font-size: 82px;
+	font-size: 55px;
 	font-weight: 700;
 	text-transform: uppercase;
-	margin-top: 0;
+	margin-top: 20px;
 	margin-bottom: 10px;
 }
 .intro h1 span {
@@ -219,10 +220,14 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 60px;
 }
 header .intro-text {
-	padding-top: 350px;
+	padding-top: 20vw;
 	padding-bottom: 200px;
 	text-align: center;
-	margin-left: 12%;
+}
+.intro .row{
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 /* Principles Section */
 #principles {
