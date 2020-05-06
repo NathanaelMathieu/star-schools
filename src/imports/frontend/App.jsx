@@ -4,7 +4,7 @@ import Header from './header';
 import Principles from './principles';
 import About from './about';
 import Services from './services';
-import Gallery from './gallery';
+import Materials from './materials';
 import Testimonials from './testimonials';
 import Team from './Team';
 import Contact from './contact';
@@ -41,7 +41,7 @@ export class App extends Component {
         <Principles data={this.state.resumeData.Principles}/>
         <About  data={this.state.resumeData.About}/>
         <Services  data={this.state.resumeData.Services}/>
-        <Gallery />
+        <Materials />
         <Testimonials  data={this.state.resumeData.Testimonials}/>
         <Team  data={this.state.resumeData.Team}/>
         <Contact  data={this.state.resumeData.Contact}/>
