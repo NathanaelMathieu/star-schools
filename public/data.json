@@ -113,24 +113,24 @@
         "youtube": "youtube.com"
     },
     "Principles": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-book-open",
+            "title": "Scholarship",
+            "text": "Every child deserve an excellent education with opportunities to learn and grow."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-door-open",
+            "title": "Transparency",
+            "text": "All publicly funded schools should be run by organizations that are open and transparent."
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-gavel",
+            "title": "Accountability",
+            "text": "All public schools should be held accountable to the same high standards."
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-file-invoice-dollar",
+            "title": "Responsibility",
+            "text": "Public funding must be used effectively to benefit students and faculty fairly."
         }
     ]
 }
