@@ -105,12 +105,13 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
+        "address": "4321 Fake Lane, Middletown, CT 06457 ",
         "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "email": "info@starschools.xyz",
         "facebook": "fb.com",
         "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "youtube": "youtube.com",
+        "instagram": "instagram.com"
     },
     "Principles": [{
             "icon": "fa fa-book-open",

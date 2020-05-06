@@ -49,27 +49,28 @@ export class Contact extends Component {
         <p><span><i className="fa fa-phone"></i> Phone</span> {this.props.data ? this.props.data.phone : 'loading'}</p>
       </div>
       <div className="contact-item">
-        <p><span><i className="fa fa-envelope-o"></i> Email</span> {this.props.data ? this.props.data.email : 'loading'}</p>
+        <p><span><i className="fas fa-envelope"></i> Email</span> {this.props.data ? this.props.data.email : 'loading'}</p>
       </div>
     </div>
     <div className="col-md-12">
       <div className="row">
         <div className="social">
           <ul>
-            <li><a href={this.props.data ? this.props.data.facebook : '/'}><i className="fa fa-facebook"></i></a></li>
-            <li><a href={this.props.data ? this.props.data.twitter : '/'}><i className="fa fa-twitter"></i></a></li>
-            <li><a href={this.props.data ? this.props.data.youtube : '/'}><i className="fa fa-youtube"></i></a></li>
+            <li><a href={this.props.data ? this.props.data.facebook : '/'}><i className="fab fa-facebook"></i></a></li>
+            <li><a href={this.props.data ? this.props.data.twitter : '/'}><i className="fab fa-twitter"></i></a></li>
+            <li><a href={this.props.data ? this.props.data.youtube : '/'}><i className="fab fa-youtube"></i></a></li>
+            <li><a href={this.props.data ? this.props.data.instagram : '/'}><i className="fab fa-instagram"></i></a></li>
           </ul>
         </div>
       </div>
     </div>
   </div>
 </div>
-<div id="footer">
+{/* <div id="footer">
   <div className="container text-center">
     <p>&copy; 2018 Issaaf Kattan React Land Page Template. Design by <a href="http://www.templatewire.com" rel="nofollow">TemplateWire</a></p>
   </div>
-</div>  
+</div>   */}
       </div>
     )
   }
