@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { HashRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import App from '../frontend/App';
 // import Backend from '../backend/App';  // Could be used to implement a backend down the line
 

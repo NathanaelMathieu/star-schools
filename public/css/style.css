@@ -221,13 +221,14 @@ header .intro-text {
 	padding-top: 350px;
 	padding-bottom: 200px;
 	text-align: center;
+	margin-left: 12%;
 }
-/* Features Section */
-#features {
+/* Principles Section */
+#principles {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
-#features i.fa {
+#principles i.fa {
 	font-size: 38px;
 	margin-bottom: 20px;
 	transition: all 0.5s;

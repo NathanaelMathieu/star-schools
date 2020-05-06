@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Navigation from './navigation';
 import Header from './header';
-import Features from './features';
+import Principles from './principles';
 import About from './about';
 import Services from './services';
 import Gallery from './gallery';
@@ -38,7 +38,7 @@ export class App extends Component {
       <div>
         <Navigation />
         <Header data={this.state.resumeData.Header}/>
-        <Features data={this.state.resumeData.Features}/>
+        <Principles data={this.state.resumeData.Principles}/>
         <About  data={this.state.resumeData.About}/>
         <Services  data={this.state.resumeData.Services}/>
         <Gallery />
