@@ -40,15 +40,6 @@ export class Materials extends Component {
               </div>
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
-                  <div className="hover-bg"> <a href="img/portfolio/endorse-lg.png" title="Project Title" data-lightbox-gallery="gallery1">
-                    <div className="hover-text">
-                      <h4>Sample Endorsement</h4>
-                    </div>
-                    <img src="img/portfolio/endorse-sm.png" className="img-responsive" alt="Project Title"/> </a> </div>
-                </div>
-              </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
                   <div className="hover-bg"> <a href="img/portfolio/media-lg.png" title="Project Title" data-lightbox-gallery="gallery1">
                     <div className="hover-text">
                       <h4>Media Guidance</h4>

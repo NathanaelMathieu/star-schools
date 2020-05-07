@@ -6,8 +6,8 @@ export class Goals extends Component {
         <div id="goals" className="text-center">
         <div className="container">
           <div className="section-title">
-            <h2>Our Services</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+            <h2>Our Goals</h2>
+            <p>STARSchools is committed to state-based changes in education policy. Primarily through state legislatures, STARSchools will work to promote our ideas across the country.</p>
           </div>
           <div className="goal-grid">
 
